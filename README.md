@@ -1,3 +1,3 @@
 # hello-world
-first assignment
+first assignment:
 My name is Michael.
